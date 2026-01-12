@@ -1,0 +1,14 @@
+.vs/
+appsettings.json
+# Visual Studio / Build related
+[Bb]in/
+[Oo]bj/
+*.suo
+*.user
+*.log
+
+# NuGet
+*.nupkg
+
+# User-specific files
+.vs/
